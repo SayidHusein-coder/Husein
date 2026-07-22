@@ -1,0 +1,1 @@
+console.log("hello dari X RPL 6");
